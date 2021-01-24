@@ -1,7 +1,7 @@
 ### TYDZIEŃ1
 ## Zadanie 1:
     - "politka zabrania stworznia konta typu Azure Storage, które umożliwia dostępu z tzw. Public Endpoints":
-```JSON
+```
 {
   "properties": {
     "displayName": "Deny storage with public endpoint",
