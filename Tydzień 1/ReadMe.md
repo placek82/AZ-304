@@ -143,7 +143,7 @@
 ```
 
   - "polityka wymusza by każda stworzona maszyna była od razu podłączona do usługi Azure Log Analytics, które będzie parameterem polityk":
-Po prostu [stąd] (https://github.com/Azure/azure-policy/blob/master/built-in-policies/policyDefinitions/Monitoring/LogAnalytics_OSImage_VMSS_Audit.json).
+Po prostu [stąd](https://github.com/Azure/azure-policy/blob/master/built-in-policies/policyDefinitions/Monitoring/LogAnalytics_OSImage_VMSS_Audit.json).
 
 ## Zadanie 2:
 
