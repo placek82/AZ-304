@@ -1,5 +1,5 @@
-### TYDZIEŃ1
-## Zadanie 1:
+## TYDZIEŃ1
+### Zadanie 1:
   - "politka zabrania stworznia konta typu Azure Storage, które umożliwia dostępu z tzw. Public Endpoints":
 
 ```
